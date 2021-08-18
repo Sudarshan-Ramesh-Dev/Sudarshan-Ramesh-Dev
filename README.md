@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/89139144/129896819-2f14d360-166c-4254-9688-4a1a2ba0d21a.png)
+Exploring the world of Software Development :D !!!
 <!--
 **Sudarshan-Ramesh-Dev/Sudarshan-Ramesh-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
